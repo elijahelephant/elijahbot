@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "discord.js": "^14.15.2",
+    "he": "^1.2.0",
+    "node-fetch": "^2.7.0",
     "openai": "^4.47.1"
   },
   "devDependencies": {
